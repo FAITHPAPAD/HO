@@ -10,7 +10,7 @@
 #include <time.h>
 
 void usage() {
-    printf("Usage: ./soulfix ip port time processes\n");
+    printf("Usage: ./bgmi ip port time processes\n");
     exit(1);
 }
 
